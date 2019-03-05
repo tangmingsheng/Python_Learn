@@ -7,4 +7,3 @@ print(myName.rsplit())
 
 myName=myName.split()
 print(myName)
-
